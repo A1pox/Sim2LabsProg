@@ -1,0 +1,72 @@
+# CLion
+.idea/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+Makefile
+CMakeUserPresets.json
+compile_commands.json
+
+# Build output
+build/
+bin/
+out/
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+# Debug and profiling files
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JetBrains specific
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/shelf/
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/sonarlint/
+.idea/**/coverage/
+.idea/**/inspectionProfiles/
+.idea/**/libraries/
+.idea/**/httpRequests/
+.idea/**/gradle.xml
+.idea/**/sonarIssues.xml
+.idea/**/vcs.xml
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+._*
